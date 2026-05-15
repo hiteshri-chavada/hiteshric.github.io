@@ -92,8 +92,6 @@ Currently exploring Generative AI tools and prompt engineering to improve my dev
 
 - **[SWHabitation](https://www.swhabitation.com/)**
 
-- **[Duolingo Blog](https://blog.duolingo.com/)**
-
 - **[Volz](https://volz.ua/)**
 
 ---
